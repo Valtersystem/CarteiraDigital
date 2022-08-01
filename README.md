@@ -1,6 +1,8 @@
 # CarteiraDigital
 
-Treinando JavaScript 
-##Estou criando uma carteira digital para treniar JS Báscio. <br>
+Treinamento
+De JavaScript, Manipulção do DOM, HTML e CSS
+
+##Carteira digital para treniar JS Báscio. <br>
 
 Vizualizar : https://valtersystem.github.io/CarteiraDigital/
